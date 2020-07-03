@@ -1,3 +1,11 @@
+Features: 
+1) Login / Register w database backend
+2) Takes ur Image URL and recognises faces using free machine learning API Clarifai (thanks clarifai).
+3) That's pretty much it lol
+
+Credits - Zero to Mastery Web Dev course 2020 (Andrei Neagoie)
+------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
